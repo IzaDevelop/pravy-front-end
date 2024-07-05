@@ -1,8 +1,8 @@
-export const users = [
+[
     {
         "id": 1,
         "name": "Carlos Pereira",
-        "email": "carlos.pereira@example.com",
+        "email": "carlos.pereira@email.com",
         "password": "Carlos@456",
         "phone": "+55 31 93456-7890",
         "address": {
@@ -23,7 +23,7 @@ export const users = [
     {
         "id": 2,
         "name": "Ana Souza",
-        "email": "ana.souza@example.com",
+        "email": "ana.souza@email.com",
         "password": "Ana*Pass789",
         "phone": "+55 41 92345-6789",
         "address": {
@@ -44,7 +44,7 @@ export const users = [
     {
         "id": 3,
         "name": "Lucas Lima",
-        "email": "lucas.lima@example.com",
+        "email": "lucas.lima@email.com",
         "password": "Lucas#987",
         "phone": "+55 51 93456-1234",
         "address": {
@@ -65,7 +65,7 @@ export const users = [
     {
         "id": 4,
         "name": "Fernanda Silva",
-        "email": "fernanda.silva@example.com",
+        "email": "fernanda.silva@email.com",
         "password": "Fernanda@123",
         "phone": "+55 11 91234-5678",
         "address": {
@@ -83,4 +83,4 @@ export const users = [
         "hobbies": "Gosto de ler livros de ficção científica e assistir séries.",
         "avatar": "https://img.freepik.com/free-psd/3d-illustration-human-avatar-profile_23-2150671165.jpg"
     }
-];
+]

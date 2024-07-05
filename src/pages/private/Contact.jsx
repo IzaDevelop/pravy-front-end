@@ -136,9 +136,9 @@ export function Contact() {
 
                     <div className="flex w-full xl:w-1/2">
                         <div className="relative hidden h-auto xl:block">
-                            <svg viewBox="0 0 190 1440" class="w-16 h-full text-gray-300" preserveAspectRatio="none" strokeWidth="0"><path d="M-0.000203125 6.34766e-06H190V1440H-0.000203125C-0.000203125 1440 113.574 1059.66 114.317 699.623C115.06 339.589 -0.000203125 6.34766e-06 -0.000203125 6.34766e-06Z" fill="currentColor"></path></svg>
+                            <svg viewBox="0 0 190 1440" className="w-16 h-full text-gray-300" preserveAspectRatio="none" strokeWidth="0"><path d="M-0.000203125 6.34766e-06H190V1440H-0.000203125C-0.000203125 1440 113.574 1059.66 114.317 699.623C115.06 339.589 -0.000203125 6.34766e-06 -0.000203125 6.34766e-06Z" fill="currentColor"></path></svg>
                         </div>
-                        <div className="w-full flex justify-center bg-gray-300 lg:py-0 xl:rounded-r sm:pl-2 xl:pl-0">
+                        <div className="w-full hidden xl:flex justify-center bg-gray-300 lg:py-0 xl:rounded-r sm:pl-2 xl:pl-0">
                             <img src="https://kitwind.io/static/7277c9785e82b31b79de9c72e716bce1/8309f/human.png" alt="" />
                         </div>
                     </div>

@@ -55,7 +55,7 @@ export function Header() {
                     </div>
 
                     <div className="hidden lg:flex items-center gap-5 max-w-[200px]">
-                        <img class="w-10 h-10 rounded-full" src={user.avatar} alt="user" />
+                        <img className="w-10 h-10 rounded-full" src={user.avatar} alt="user" />
 
                         <button onClick={() => handleLogout()} className="bg-custom-blue text-black font-medium rounded-lg px-5 py-2">
                             Sair
