@@ -15,18 +15,12 @@ Teste de desenvolvimento Front-End Pleno
 ## Bibliotecas
 
 - [Tailwind](https://tailwindcss.com/)
-- [Axios](https://www.npmjs.com/package/axios)
 - [Moment](https://momentjs.com/)
-- [Dotenv](https://www.npmjs.com/package/dotenv)
-- [Classnames](https://www.npmjs.com/package/classnames)
 - [React-router](https://www.npmjs.com/package/react-router)
 - [React-router-hash-link](https://www.npmjs.com/package/react-router-hash-link)
 - [Phosphoricons](https://www.npmjs.com/package/phosphor-icons)
-- [React-input-mask](https://www.npmjs.com/package/react-input-mask)
 - [Tailwindcss](https://tailwindcss.com/docs/guides/vite)
 - [Tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms)
-- [Cpf-cnpj-validator](https://www.npmjs.com/package/cpf-cnpj-validator)
-- [Swiper-react](https://swiperjs.com/react)
 
 
 ## Instalação do projeto
