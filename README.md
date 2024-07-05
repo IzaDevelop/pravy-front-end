@@ -40,7 +40,7 @@ Instale o repositorio **pravy-front-end** com o comando
 
 ## Ambientes
 
-- branch **master** (produção)
+- branch **main** (produção)
 
 
 ## Rodando
